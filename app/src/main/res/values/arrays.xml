@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array
+        name="water_schedule_array" >
+        <item>5 seconds</item>
+        <item>1 day</item>
+        <item>1 week</item>
+        <item>1 month</item>
+    </array>
+</resources>

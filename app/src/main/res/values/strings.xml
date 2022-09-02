@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Water Me</string>
+    <string name="schedule">Water %s</string>
+    <string name="channel_name">water_channel</string>
+    <string name="channel_description">water_reminder</string>
+    <string name="water_reminder">Remind me to water in…</string>
+</resources>
